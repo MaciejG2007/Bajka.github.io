@@ -1,0 +1,61 @@
+#center
+{
+    text-align: center;
+}
+body
+{
+    background-image: url("obraz1.jpg");
+}
+#button
+{
+    font-size: 32px;
+    border: 2px solid black;
+    background-color: blue;
+}
+#left
+{
+    float: left;
+    width: 12.5%;
+}
+#mid
+{
+    float: left;
+    width: 12.5%;
+}
+#right
+{
+    float: right;
+    width: 12.5%;
+    text-align: right;
+}
+#left2
+{
+    float: left;
+    width: 12.5%;
+}
+#mid2
+{
+    float: left;
+    width: 12.5%;
+}
+#right2
+{
+    float: left;
+    width: 12.5%;
+}
+#mid3
+{
+    float: left;
+    width: 12.5%;
+}
+#mid4
+{
+    float: left;
+    width: 12.5%;
+    text-align: right;
+}
+#stopka
+{
+    text-align: center;
+    clear: both;
+}

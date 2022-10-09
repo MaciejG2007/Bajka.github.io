@@ -1,0 +1,35 @@
+#center
+{
+    text-align: center;
+}
+body
+{
+    background-image: url("obraz1.jpg");
+}
+#text
+{
+    font-size: 20px;
+    text-indent: 40px;
+}
+#left
+{
+    float: left;
+    width: 33%;
+}
+#mid
+{
+    float: left;
+    width: 34%;
+    text-align: center;
+}
+#right
+{
+    float: right;
+    width: 33%;
+    text-align: right;
+}
+#stopka
+{
+    text-align: center;
+    clear: both;
+}
